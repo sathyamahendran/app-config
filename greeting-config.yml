@@ -1,7 +1,7 @@
 security:
   basic:
-    enabled:false # Turning off securing our application endpoints
+    enabled: false # Turning off securing our application endpoints
 
 management:
   security:
-    enabled:false # Turning off securing our application endpoints
+    enabled: false # Turning off securing our application endpoints
